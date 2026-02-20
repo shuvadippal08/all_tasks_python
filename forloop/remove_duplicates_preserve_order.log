@@ -1,0 +1,14 @@
+2026-02-20 20:46:53,538 - INFO - Starting duplicate removal process - root
+2026-02-20 20:46:53,538 - INFO - Added 1 to result - root
+2026-02-20 20:46:53,538 - INFO - Skipped duplicate item: 1 - root
+2026-02-20 20:46:53,538 - INFO - Added 2 to result - root
+2026-02-20 20:46:53,538 - INFO - Added 3 to result - root
+2026-02-20 20:46:53,538 - INFO - Added 5 to result - root
+2026-02-20 20:46:53,538 - INFO - Added 6 to result - root
+2026-02-20 20:46:53,538 - INFO - Skipped duplicate item: 6 - root
+2026-02-20 20:46:53,539 - INFO - Added 4 to result - root
+2026-02-20 20:46:53,539 - INFO - Added 9 to result - root
+2026-02-20 20:46:53,539 - INFO - Added 7 to result - root
+2026-02-20 20:46:53,539 - INFO - Added 8 to result - root
+2026-02-20 20:46:53,539 - INFO - Skipped duplicate item: 3 - root
+2026-02-20 20:46:53,539 - INFO - Duplicate removal completed - root
