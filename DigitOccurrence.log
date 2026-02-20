@@ -1,0 +1,27 @@
+2026-02-20 20:21:04,876 - INFO - Program started
+2026-02-20 20:21:15,171 - INFO - Number entered: 1135548648
+2026-02-20 20:21:34,778 - INFO - Digit to search: 5
+2026-02-20 20:21:34,778 - INFO - Checking digit: 8
+2026-02-20 20:21:34,778 - INFO - Remaining number: 113554864
+2026-02-20 20:21:34,778 - INFO - Checking digit: 4
+2026-02-20 20:21:34,778 - INFO - Remaining number: 11355486
+2026-02-20 20:21:34,778 - INFO - Checking digit: 6
+2026-02-20 20:21:34,778 - INFO - Remaining number: 1135548
+2026-02-20 20:21:34,778 - INFO - Checking digit: 8
+2026-02-20 20:21:34,778 - INFO - Remaining number: 113554
+2026-02-20 20:21:34,778 - INFO - Checking digit: 4
+2026-02-20 20:21:34,778 - INFO - Remaining number: 11355
+2026-02-20 20:21:34,779 - INFO - Checking digit: 5
+2026-02-20 20:21:34,779 - INFO - Match found for 5 \u2192 Count = 1
+2026-02-20 20:21:34,779 - INFO - Remaining number: 1135
+2026-02-20 20:21:34,779 - INFO - Checking digit: 5
+2026-02-20 20:21:34,779 - INFO - Match found for 5 \u2192 Count = 2
+2026-02-20 20:21:34,779 - INFO - Remaining number: 113
+2026-02-20 20:21:34,779 - INFO - Checking digit: 3
+2026-02-20 20:21:34,779 - INFO - Remaining number: 11
+2026-02-20 20:21:34,779 - INFO - Checking digit: 1
+2026-02-20 20:21:34,779 - INFO - Remaining number: 1
+2026-02-20 20:21:34,779 - INFO - Checking digit: 1
+2026-02-20 20:21:34,779 - INFO - Remaining number: 0
+2026-02-20 20:21:34,779 - INFO - Final count of digit 5: 2
+2026-02-20 20:21:34,779 - INFO - Program ended

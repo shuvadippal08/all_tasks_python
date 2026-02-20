@@ -1,0 +1,16 @@
+2026-02-20 20:14:49,690 - INFO - Program started
+2026-02-20 20:15:03,930 - INFO - User entered number: 1234
+2026-02-20 20:15:03,930 - INFO - Processing digit: 4
+2026-02-20 20:15:03,931 - INFO - Digit 4 is EVEN \u2192 Even count = 1
+2026-02-20 20:15:03,936 - INFO - Remaining number after removing digit: 123
+2026-02-20 20:15:03,936 - INFO - Processing digit: 3
+2026-02-20 20:15:03,936 - INFO - Digit 3 is ODD \u2192 Odd count = 1
+2026-02-20 20:15:03,936 - INFO - Remaining number after removing digit: 12
+2026-02-20 20:15:03,936 - INFO - Processing digit: 2
+2026-02-20 20:15:03,936 - INFO - Digit 2 is EVEN \u2192 Even count = 2
+2026-02-20 20:15:03,936 - INFO - Remaining number after removing digit: 1
+2026-02-20 20:15:03,936 - INFO - Processing digit: 1
+2026-02-20 20:15:03,936 - INFO - Digit 1 is ODD \u2192 Odd count = 2
+2026-02-20 20:15:03,936 - INFO - Remaining number after removing digit: 0
+2026-02-20 20:15:03,936 - INFO - Final Even Count: 2, Final Odd Count: 2
+2026-02-20 20:15:03,936 - INFO - Program ended

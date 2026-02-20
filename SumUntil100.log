@@ -1,0 +1,11 @@
+2026-02-20 20:19:46,878 - INFO - Program started
+2026-02-20 20:19:51,069 - INFO - User entered number: 12
+2026-02-20 20:19:51,069 - INFO - Updated total: 12
+2026-02-20 20:19:52,462 - INFO - User entered number: 23
+2026-02-20 20:19:52,462 - INFO - Updated total: 35
+2026-02-20 20:19:53,795 - INFO - User entered number: 56
+2026-02-20 20:19:53,795 - INFO - Updated total: 91
+2026-02-20 20:19:55,198 - INFO - User entered number: 89
+2026-02-20 20:19:55,198 - INFO - Updated total: 180
+2026-02-20 20:19:55,198 - INFO - Loop ended as total exceeded 100 \u2192 Final total: 180
+2026-02-20 20:19:55,213 - INFO - Program ended

@@ -1,0 +1,19 @@
+2026-02-20 20:16:20,636 - INFO - Program started
+2026-02-20 20:16:33,015 - INFO - User entered number: 1221
+2026-02-20 20:16:33,016 - INFO - Starting number reversal process
+2026-02-20 20:16:33,016 - INFO - Extracted digit: 1, Reversed so far: 1, Remaining number: 122
+2026-02-20 20:16:33,016 - INFO - Extracted digit: 2, Reversed so far: 12, Remaining number: 12
+2026-02-20 20:16:33,016 - INFO - Extracted digit: 2, Reversed so far: 122, Remaining number: 1
+2026-02-20 20:16:33,016 - INFO - Extracted digit: 1, Reversed so far: 1221, Remaining number: 0
+2026-02-20 20:16:33,016 - INFO - Final reversed number: 1221
+2026-02-20 20:16:33,016 - INFO - 1221 is a palindrome
+2026-02-20 20:16:33,016 - INFO - Program ended
+2026-02-20 20:16:38,028 - INFO - Program started
+2026-02-20 20:16:40,409 - INFO - User entered number: 123
+2026-02-20 20:16:40,409 - INFO - Starting number reversal process
+2026-02-20 20:16:40,409 - INFO - Extracted digit: 3, Reversed so far: 3, Remaining number: 12
+2026-02-20 20:16:40,409 - INFO - Extracted digit: 2, Reversed so far: 32, Remaining number: 1
+2026-02-20 20:16:40,409 - INFO - Extracted digit: 1, Reversed so far: 321, Remaining number: 0
+2026-02-20 20:16:40,409 - INFO - Final reversed number: 321
+2026-02-20 20:16:40,409 - INFO - 123 is NOT a palindrome
+2026-02-20 20:16:40,409 - INFO - Program ended

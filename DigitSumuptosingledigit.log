@@ -1,0 +1,22 @@
+2026-02-20 20:12:25,450 - INFO - Program started
+2026-02-20 20:12:37,742 - INFO - User entered number: 1325647
+2026-02-20 20:12:37,743 - INFO - Starting loop to reduce number to single digit
+2026-02-20 20:12:37,743 - INFO - Counting digits of 1325647
+2026-02-20 20:12:37,743 - INFO - Number of digits: 7
+2026-02-20 20:12:37,743 - INFO - Calculating digit sum of 1325647
+2026-02-20 20:12:37,743 - INFO - Digit sum calculated: 28
+2026-02-20 20:12:37,743 - INFO - Intermediate result after sum: 28
+2026-02-20 20:12:37,743 - INFO - Counting digits of 28
+2026-02-20 20:12:37,743 - INFO - Number of digits: 2
+2026-02-20 20:12:37,743 - INFO - Calculating digit sum of 28
+2026-02-20 20:12:37,743 - INFO - Digit sum calculated: 10
+2026-02-20 20:12:37,744 - INFO - Intermediate result after sum: 10
+2026-02-20 20:12:37,744 - INFO - Counting digits of 10
+2026-02-20 20:12:37,744 - INFO - Number of digits: 2
+2026-02-20 20:12:37,744 - INFO - Calculating digit sum of 10
+2026-02-20 20:12:37,744 - INFO - Digit sum calculated: 1
+2026-02-20 20:12:37,744 - INFO - Intermediate result after sum: 1
+2026-02-20 20:12:37,744 - INFO - Counting digits of 1
+2026-02-20 20:12:37,744 - INFO - Number of digits: 1
+2026-02-20 20:12:37,744 - INFO - Final single digit result: 1
+2026-02-20 20:12:37,744 - INFO - Program ended

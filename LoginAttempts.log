@@ -1,0 +1,21 @@
+2026-02-20 20:17:37,026 - INFO - Program started
+2026-02-20 20:17:40,376 - INFO - Entered username: shuadip
+2026-02-20 20:17:40,376 - WARNING - Wrong username entered
+2026-02-20 20:17:40,376 - INFO - Program ended
+2026-02-20 20:17:43,533 - INFO - Program started
+2026-02-20 20:17:45,549 - INFO - Entered username: shuvadip
+2026-02-20 20:17:45,549 - INFO - Username matched
+2026-02-20 20:17:48,903 - INFO - Password attempt 1
+2026-02-20 20:17:48,903 - WARNING - Wrong password on attempt 1
+2026-02-20 20:17:53,398 - INFO - Password attempt 2
+2026-02-20 20:17:53,399 - WARNING - Wrong password on attempt 2
+2026-02-20 20:17:57,249 - INFO - Password attempt 3
+2026-02-20 20:17:57,249 - WARNING - Wrong password on attempt 3
+2026-02-20 20:17:57,257 - ERROR - Too many failed attempts
+2026-02-20 20:17:57,257 - INFO - Program ended
+2026-02-20 20:18:01,563 - INFO - Program started
+2026-02-20 20:18:05,307 - INFO - Entered username: shuvadip
+2026-02-20 20:18:05,307 - INFO - Username matched
+2026-02-20 20:18:10,146 - INFO - Password attempt 1
+2026-02-20 20:18:10,146 - INFO - Login successful
+2026-02-20 20:18:10,146 - INFO - Program ended
