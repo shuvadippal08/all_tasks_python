@@ -1,0 +1,1 @@
+mul = lambda a,b:a*b

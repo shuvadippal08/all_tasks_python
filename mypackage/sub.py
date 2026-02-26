@@ -1,0 +1,1 @@
+sub = lambda a,b: a-b if a>b else b-a

@@ -1,0 +1,1 @@
+div = lambda x,y: x//y if y>0 or y < 0 else "Not divisible by zero"
